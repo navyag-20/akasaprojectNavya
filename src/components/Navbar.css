@@ -1,0 +1,33 @@
+.navbar{
+    display: flex;
+    padding: 0.7% 1%;
+    position: sticky;
+    top: 0;
+    align-items: center;
+    border-bottom: solid grey 1px;
+    background-color: white;
+}
+.navbar img{
+    width: 15%;
+    height: 3.3vw;
+}
+.navbar ul{
+    display: flex;
+    gap: 3vw;
+    list-style: none;
+    position: absolute;
+    right:13%;
+    align-items: center;
+}
+.navbar ul>li:hover{
+    color: grey;
+    cursor: pointer;
+}
+.navbar button{
+    position: absolute;
+    right:5%;
+    background-color: white;
+    border: solid black 1px;
+    padding: 0.5% 1.5%;
+    border-radius: 3px;
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1, 
+        "desc": "Fruits",
+        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+    },
+    {
+        "id": 2, 
+        "desc": "Vegetables",
+        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+    },
+    {
+        "id": 3, 
+        "desc": "Dairy and Eggs",
+        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+    },
+    {
+        "id": 4, 
+        "desc": "Breads",
+        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+    },
+    {
+        "id": 5, 
+        "desc": "Chicken, Fish and Meat",
+        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+    },
+    {
+        "id": 6, 
+        "desc": "Bakery",
+        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+    }
+]

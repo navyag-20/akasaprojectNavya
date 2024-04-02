@@ -1,0 +1,15 @@
+.home-page{
+    padding: 0.5% 2%;
+    font-family: Manrope;
+}
+.home-page h2{
+    font-weight: 500;
+}
+.category-cards{
+    display: flex;
+    gap: 1vw;
+}
+.product-cards{
+    display: flex;
+    gap: 1vw;
+}
