@@ -1,12 +1,27 @@
 .login-box{
     display: flex;
     flex-direction: column;
-    padding: 3% 5%;
+    padding: 4% 7%;
     max-width: 100%;
     gap: 1vw;
     font-family: Manrope;
 }
 .login-box>h2{
     margin: 0;
-
+    margin-bottom: 0.5vw;
+    font-size: 2vw;
+}
+.login-button{
+    border:none;
+    background-color: rgb(31, 163, 70);
+    color: white;
+    font-size: 1.3vw;
+    font-weight: 500;
+    padding: 0.7vw 3vw;
+    border-radius: 4px;
+    transition: all 0.3s;
+}
+.login-button:hover{
+    cursor: pointer;
+    opacity: 0.8;
 }

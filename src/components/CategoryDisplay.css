@@ -1,0 +1,17 @@
+.category-display{
+    display: flex;
+    /* gap: 2.2vw; */
+    padding: 0% 2%;
+    justify-content: space-around;
+    font-family: Manrope;
+    border-bottom: solid #e3e3e3 1px;
+}
+.category-display>p{
+    transition: all 0.2s;
+    color: rgb(93, 87, 87);
+    /* border: solid 1px rgb(31, 163, 70); */
+}
+.category-display>p:hover{
+    color: rgb(12, 145, 52);
+    cursor: pointer;
+}

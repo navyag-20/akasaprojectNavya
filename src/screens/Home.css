@@ -1,15 +1,44 @@
 .home-page{
-    padding: 0.5% 2%;
+    /* padding: 0.5% 2%; */
     font-family: Manrope;
+    padding-bottom: 3%;
+}
+.home-page>img{
+   width: 100%;
+   height: auto;
+   cursor: pointer;
 }
 .home-page h2{
-    font-weight: 500;
+    font-weight: 700;
+    font-size: 2.4vw;
+    padding-top: 0.5vw;
+}
+
+.categories-prods{
+    padding: 0% 6%;
 }
 .category-cards{
     display: flex;
-    gap: 1vw;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 1.4vw;
 }
 .product-cards{
     display: flex;
-    gap: 1vw;
+    gap: 1.4vw;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.prods{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.prods>p{
+    padding-right: 1%;
+    color: grey;
+    cursor: pointer;
+}
+.prods>p:hover{
+    opacity: 0.6;
 }

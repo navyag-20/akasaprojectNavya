@@ -1,0 +1,322 @@
+[
+    {
+        "id": "1U",
+        "emailID": "navya@gmail.com",
+        "phoneNo": "8851028288",
+        "password": "iloveyou",
+        "cartHist": [
+            {
+                "prodID": "1P",
+                "prodQuant": 3
+            },
+            {
+                "prodID": "7P",
+                "prodQuant": 4
+            }
+        ]
+    },
+    {
+        "id": "2U",
+        "emailID": "john@gmail.com",
+        "phoneNo": "9876543210",
+        "password": "password123",
+        "cartHist": [
+            {
+                "prodID": "3P",
+                "prodQuant": 2
+            },
+            {
+                "prodID": "8P",
+                "prodQuant": 1
+            }
+        ]
+    },
+    {
+        "id": "3U",
+        "emailID": "emma@gmail.com",
+        "phoneNo": "8765432109",
+        "password": "qwerty",
+        "cartHist": [
+            {
+                "prodID": "2P",
+                "prodQuant": 5
+            },
+            {
+                "prodID": "6P",
+                "prodQuant": 2
+            }
+        ]
+    },
+    {
+        "id": "4U",
+        "emailID": "michael@gmail.com",
+        "phoneNo": "7654321098",
+        "password": "password456",
+        "cartHist": [
+            {
+                "prodID": "4P",
+                "prodQuant": 1
+            },
+            {
+                "prodID": "9P",
+                "prodQuant": 3
+            }
+        ]
+    },
+    {
+        "id": "5U",
+        "emailID": "sophia@gmail.com",
+        "phoneNo": "6543210987",
+        "password": "abc123",
+        "cartHist": [
+            {
+                "prodID": "5P",
+                "prodQuant": 4
+            },
+            {
+                "prodID": "10P",
+                "prodQuant": 2
+            }
+        ]
+    },
+    {
+        "id": "6U",
+        "emailID": "david@gmail.com",
+        "phoneNo": "5432109876",
+        "password": "mypassword",
+        "cartHist": [
+            {
+                "prodID": "1P",
+                "prodQuant": 2
+            },
+            {
+                "prodID": "7P",
+                "prodQuant": 5
+            }
+        ]
+    },
+    {
+        "id": "7U",
+        "emailID": "olivia@gmail.com",
+        "phoneNo": "4321098765",
+        "password": "pass123",
+        "cartHist": [
+            {
+                "prodID": "3P",
+                "prodQuant": 3
+            },
+            {
+                "prodID": "8P",
+                "prodQuant": 2
+            }
+        ]
+    },
+    {
+        "id": "8U",
+        "emailID": "james@gmail.com",
+        "phoneNo": "3210987654",
+        "password": "securepassword",
+        "cartHist": [
+            {
+                "prodID": "2P",
+                "prodQuant": 4
+            },
+            {
+                "prodID": "6P",
+                "prodQuant": 3
+            }
+        ]
+    },
+    {
+        "id": "9U",
+        "emailID": "ava@gmail.com",
+        "phoneNo": "2109876543",
+        "password": "qwerty123",
+        "cartHist": [
+            {
+                "prodID": "4P",
+                "prodQuant": 2
+            },
+            {
+                "prodID": "9P",
+                "prodQuant": 4
+            }
+        ]
+    },
+    {
+        "id": "10U",
+        "emailID": "william@gmail.com",
+        "phoneNo": "1098765432",
+        "password": "password1234",
+        "cartHist": [
+            {
+                "prodID": "5P",
+                "prodQuant": 1
+            },
+            {
+                "prodID": "10P",
+                "prodQuant": 5
+            }
+        ]
+    },
+    {
+        "id": "11U",
+        "emailID": "mia@gmail.com",
+        "phoneNo": "9876543210",
+        "password": "iloveyou456",
+        "cartHist": [
+            {
+                "prodID": "1P",
+                "prodQuant": 3
+            },
+            {
+                "prodID": "7P",
+                "prodQuant": 4
+            }
+        ]
+    },
+    {
+        "id": "12U",
+        "emailID": "alexander@gmail.com",
+        "phoneNo": "8765432109",
+        "password": "password789",
+        "cartHist": [
+            {
+                "prodID": "3P",
+                "prodQuant": 2
+            },
+            {
+                "prodID": "8P",
+                "prodQuant": 1
+            }
+        ]
+    },
+    {
+        "id": "13U",
+        "emailID": "amelia@gmail.com",
+        "phoneNo": "7654321098",
+        "password": "password101112",
+        "cartHist": [
+            {
+                "prodID": "2P",
+                "prodQuant": 5
+            },
+            {
+                "prodID": "6P",
+                "prodQuant": 2
+            }
+        ]
+    },
+    {
+        "id": "14U",
+        "emailID": "elijah@gmail.com",
+        "phoneNo": "6543210987",
+        "password": "abc123456",
+        "cartHist": [
+            {
+                "prodID": "4P",
+                "prodQuant": 1
+            },
+            {
+                "prodID": "9P",
+                "prodQuant": 3
+            }
+        ]
+    },
+    {
+        "id": "15U",
+        "emailID": "abigail@gmail.com",
+        "phoneNo": "5432109876",
+        "password": "mypassword789",
+        "cartHist": [
+            {
+                "prodID": "5P",
+                "prodQuant": 4
+            },
+            {
+                "prodID": "10P",
+                "prodQuant": 2
+            }
+        ]
+    },
+    {
+        "id": "16U",
+        "emailID": "ethan@gmail.com",
+        "phoneNo": "4321098765",
+        "password": "pass123456",
+        "cartHist": [
+            {
+                "prodID": "1P",
+                "prodQuant": 2
+            },
+            {
+                "prodID": "7P",
+                "prodQuant": 5
+            }
+        ]
+    },
+    {
+        "id": "17U",
+        "emailID": "emma@gmail.com",
+        "phoneNo": "3210987654",
+        "password": "securepassword789",
+        "cartHist": [
+            {
+                "prodID": "3P",
+                "prodQuant": 3
+            },
+            {
+                "prodID": "8P",
+                "prodQuant": 2
+            }
+        ]
+    },
+    {
+        "id": "18U",
+        "emailID": "lucas@gmail.com",
+        "phoneNo": "2109876543",
+        "password": "qwerty123456",
+        "cartHist": [
+            {
+                "prodID": "2P",
+                "prodQuant": 4
+            },
+            {
+                "prodID": "6P",
+                "prodQuant": 3
+            }
+        ]
+    },
+    {
+        "id": "19U",
+        "emailID": "mia@gmail.com",
+        "phoneNo": "1098765432",
+        "password": "password1234567",
+        "cartHist": [
+            {
+                "prodID": "4P",
+                "prodQuant": 2
+            },
+            {
+                "prodID": "9P",
+                "prodQuant": 4
+            }
+        ]
+    },
+    {
+        "id": "20U",
+        "emailID": "harper@gmail.com",
+        "phoneNo": "0987654321",
+        "password": "password12345678",
+        "cartHist": [
+            {
+                "prodID": "5P",
+                "prodQuant": 1
+            },
+            {
+                "prodID": "10P",
+                "prodQuant": 5
+            }
+        ]
+    }
+]

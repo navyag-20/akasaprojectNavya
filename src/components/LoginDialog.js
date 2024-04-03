@@ -13,7 +13,7 @@ const LoginDialog = (props) => {
   const handleCA = () => {
     closeLogin();
     handleSignup();
-  }
+  };
   return (
     <Fragment>
       <Dialog open={openLogin} onClose={closeLogin} maxWidth="lg">
@@ -32,12 +32,20 @@ const LoginDialog = (props) => {
               variant="outlined"
               size="small"
             />
-            <Button variant="contained">Log in</Button>
+            <button className="login-button">Log in</button>
             <Divider>or</Divider>
-            <Button variant="outlined">Sign in with Google</Button>
+            <Button
+              variant="outlined"
+              style={{ borderColor: "rgb(31, 163, 70)", color: "rgb(31, 163, 70)"}}
+            >
+              Sign in with Google
+            </Button>
             <p>
               New to QuickCart?{" "}
-              <span style={{ color: "red", cursor: "pointer" }} onClick={handleCA}>
+              <span
+                style={{ color: "grey", cursor: "pointer" }}
+                onClick={handleCA}
+              >
                 Create Account
               </span>
             </p>

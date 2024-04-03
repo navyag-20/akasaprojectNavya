@@ -1,32 +1,273 @@
 [
     {
-        "id": 1, 
-        "desc": "Fruits",
-        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+        "id": 1,
+        "major": "Fruits",
+        "score":5,
+        "minor": [
+            {
+                "id": "1_1",
+                "minorName": "Fresh Fruits"
+            },
+            {
+                "id": "1_2",
+                "minorName": "Seasonal Fruits"
+            },
+            {
+                "id": "1_3",
+                "minorName": "Exotic Fruits"
+            },
+            {
+                "id": "1_4",
+                "minorName": "Freshly Cut Fruits & sprouts"
+            }
+        ],
+        "imagesource": "https://static.toiimg.com/thumb/105938708.cms?width=680&height=512&imgsize=178694"
+    },
+    
+    {
+        "id": 2,
+        "major": "Vegetables",
+        "score":5,
+        "minor": [
+            {
+                "id": "2_1",
+                "minorName": "Fresh Vegetables"
+            },
+            {
+                "id": "2_2",
+                "minorName": "Frozen Vegetables"
+            },
+            {
+                "id": "2_3",
+                "minorName": "Leafies and Herbs"
+            },
+            {
+                "id": "2_4",
+                "minorName": "Organic Vegetables"
+            },
+            {
+                "id": "2_5",
+                "minorName": "Salads"
+            }
+        ],
+        "imagesource": "https://cdn.britannica.com/17/196817-159-9E487F15/vegetables.jpg"
     },
     {
-        "id": 2, 
-        "desc": "Vegetables",
-        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+        "id": 3,
+        "major": "Chicken, Fish, Meat",
+        "score":5,
+        "minor": [
+            {
+                "id": "3_1",
+                "minorName": "Fresh Meat"
+            },
+            {
+                "id": "3_2",
+                "minorName": "Eggs"
+            },
+            {
+                "id": "3_3",
+                "minorName": "Frozen Non Veg Snacks"
+            },
+            {
+                "id": "3_4",
+                "minorName": "Chicken"
+            },
+            {
+                "id": "3_5",
+                "minorName": "Mutton"
+            },
+            {
+                "id": "3_6",
+                "minorName": "Fish and Seafood"
+            },
+            {
+                "id": "3_7",
+                "minorName": "Sausage, Salami, Ham"
+            },
+            {
+                "id": "3_8",
+                "minorName": "Exotic Meat"
+            },
+            {
+                "id": "3_9",
+                "minorName": "Plant Based Meat"
+            }
+        ],
+        "imagesource": "https://qph.cf2.quoracdn.net/main-qimg-91226bbc8dfadfa6f0f60e6df5f7a71e-lq"
     },
     {
-        "id": 3, 
-        "desc": "Dairy and Eggs",
-        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+        "id": 4,
+        "major": "Dairy & Breads",
+        "score":4,
+        "minor": [
+            {
+                "id": "4_1",
+                "minorName": "Milk & Cream"
+            },
+            {
+                "id": "4_2",
+                "minorName": "Cheese"
+            },
+            {
+                "id": "4_3",
+                "minorName": "Yogurt"
+            },
+            {
+                "id": "4_4",
+                "minorName": "Butter & Spreads"
+            },
+            {
+                "id": "4_5",
+                "minorName": "Bread & Bakery"
+            }
+        ],
+        "imagesource": "https://img.freepik.com/premium-photo/dairy-products-with-bread-eggs_488220-32176.jpg"
     },
     {
-        "id": 4, 
-        "desc": "Breads",
-        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+        "id": 5,
+        "major": "Grains & Cereals",
+        "score":2,
+        "minor": [
+            {
+                "id": "5_1",
+                "minorName": "Rice & Pulses"
+            },
+            {
+                "id": "5_2",
+                "minorName": "Flour & Sooji"
+            },
+            {
+                "id": "5_3",
+                "minorName": "Cereals & Muesli"
+            },
+            {
+                "id": "5_4",
+                "minorName": "Oats & Porridge"
+            }
+        ],
+        "imagesource": "https://www.wearetheincrowd.com/wp-content/uploads/2022/08/220718.005-0.jpg"
     },
     {
-        "id": 5, 
-        "desc": "Chicken, Fish and Meat",
-        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+        "id": 6,
+        "major": "Juices & Cold Drinks",
+        "score":1,
+        "minor": [
+            {
+                "id": "6_1",
+                "minorName": "Fruit Juices"
+            },
+            {
+                "id": "6_2",
+                "minorName": "Soft Drinks"
+            },
+            {
+                "id": "6_3",
+                "minorName": "Energy Drinks"
+            },
+            {
+                "id": "6_4",
+                "minorName": "Iced Tea & Coffee"
+            }
+        ],
+        "imagesource": "https://web.tradekorea.com/product/664/1568664/soft%20drinks_%20canned%20drinks_%20juices%20for%20sale_1.jpg"
     },
     {
-        "id": 6, 
-        "desc": "Bakery",
-        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+        "id": 7,
+        "major": "Snacks",
+        "score":4,
+        "minor": [
+            {
+                "id": "7_1",
+                "minorName": "Chips & Crisps"
+            },
+            {
+                "id": "7_2",
+                "minorName": "Nuts & Seeds"
+            },
+            {
+                "id": "7_3",
+                "minorName": "Popcorn"
+            },
+            {
+                "id": "7_4",
+                "minorName": "Biscuits & Cookies"
+            }
+        ],
+        "imagesource": "https://www.mishry.com/wp-content/uploads/2024/02/the-spiciest-chips-in-india.jpg"
+    },
+    {
+        "id": 8,
+        "major": "Instant Foods",
+        "score":2,
+        "minor": [
+            {
+                "id": "8_1",
+                "minorName": "Noodles & Pasta"
+            },
+            {
+                "id": "8_2",
+                "minorName": "Soups & Broths"
+            },
+            {
+                "id": "8_3",
+                "minorName": "Ready-to-Eat Meals"
+            },
+            {
+                "id": "8_4",
+                "minorName": "Instant Mixes"
+            }
+        ],
+        "imagesource": "https://media.licdn.com/dms/image/C4D12AQEuiubJ4X5M4Q/article-cover_image-shrink_600_2000/0/1622109299493?e=2147483647&v=beta&t=O-KVcqHhyTSgB66KJ1KEy9oGhBFdUtJounOT3xWDuGk"
+    },
+    {
+        "id": 9,
+        "major": "Sweets",
+        "score":3,
+        "minor": [
+            {
+                "id": "9_1",
+                "minorName": "Traditional Sweets"
+            },
+            {
+                "id": "9_2",
+                "minorName": "Chocolates"
+            },
+            {
+                "id": "9_3",
+                "minorName": "Candies & Toffees"
+            },
+            {
+                "id": "9_4",
+                "minorName": "Gummies"
+            }
+        ],
+        "imagesource": "https://srmsweets.com/online/wp-content/uploads/2022/07/38985.jpg"
+    },
+    {
+        "id": 10,
+        "major": "Bakery",
+        "score":2,
+        "minor": [
+            {
+                "id": "10_1",
+                "minorName": "Bread"
+            },
+            {
+                "id": "10_2",
+                "minorName": "Cakes & Pastries"
+            },
+            {
+                "id": "10_3",
+                "minorName": "Cookies & Biscuits"
+            },
+            {
+                "id": "10_4",
+                "minorName": "Doughnuts"
+            }
+        ],
+        "imagesource": "https://thumbs.dreamstime.com/b/rich-bakery-9883921.jpg"
     }
+    
+    
 ]

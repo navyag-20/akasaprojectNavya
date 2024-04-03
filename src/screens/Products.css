@@ -1,0 +1,7 @@
+.products-display{
+    padding: 2.5% 5%;
+    display: flex;
+    flex-wrap: wrap;
+    gap:2vw;
+    justify-content: flex-start;
+}

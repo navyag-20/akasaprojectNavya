@@ -1,32 +1,311 @@
 [
     {
-        "id": 1, 
-        "desc": "amul milk",
-        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+        "id": "1P",
+        "itemName": "Amul Toned Milk",
+        "brandName": "Amul",
+        "spec": "1L",
+        "price": "₹40",
+        "stock": 100,
+        "majorCat": "Dairy and Breads",
+        "minorCat": "Milk & Cream",
+        "score": 3,
+        "imagesource": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=900/app/assets/products/sliding_images/jpeg/5ee4441d-9109-48fa-9343-f5ce82b905a6.jpg?ts=1706182143",
+        "notifyUsers": [
+            {
+                "userID": "1U",
+                "quant": 5
+            },
+            {
+                "userID": "2U",
+                "quant": 2
+            }
+        ]
     },
     {
-        "id": 2, 
-        "desc": "carrots",
-        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+        "id": "2P",
+        "itemName": "Mother Dairy Full Cream Milk",
+        "brandName": "Mother Dairy",
+        "spec": "1L",
+        "price": "₹45",
+        "stock": 80,
+        "majorCat": "Dairy and Breads",
+        "minorCat": "Milk & Cream",
+        "score": 5,
+        "imagesource": "https://ik.imagekit.io/dunzo/75a87bac875811edadd625ed157a8aec_VARIANT_5c0e13558d92d07fdff29488_1.jpg",
+        "notifyUsers": [
+            {
+                "userID": "3U",
+                "quant": 3
+            }
+        ]
     },
     {
-        "id": 3, 
-        "desc": "brown eggs",
-        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+        "id": "3P",
+        "itemName": "Harvest Gold Brown Bread",
+        "brandName": "Harvest Gold",
+        "spec": "400g",
+        "price": "₹30",
+        "stock": 120,
+        "majorCat": "Dairy and Breads",
+        "minorCat": "Bread & Bakery",
+        "score": 2,
+        "imagesource": "https://www.bigbasket.com/media/uploads/p/l/40026513_3-harvest-gold-bread-hearty-brown.jpg",
+        "notifyUsers": []
     },
     {
-        "id": 4, 
-        "desc": "britannia",
-        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+        "id": "4P",
+        "itemName": "Britannia Butter",
+        "brandName": "Britannia",
+        "spec": "100g",
+        "price": "₹50",
+        "stock": 90,
+        "majorCat": "Dairy and Breads",
+        "minorCat": "Butter & Spreads",
+        "score": 1,
+        "imagesource": "https://www.bigbasket.com/media/uploads/p/xxl/270240_5-britannia-butter.jpg",
+        "notifyUsers": []
     },
     {
-        "id": 5, 
-        "desc": "chicken",
-        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
+        "id": "5P",
+        "itemName": "Amul Cheese Slices",
+        "brandName": "Amul",
+        "spec": "200g",
+        "price": "₹70",
+        "stock": 70,
+        "majorCat": "Dairy and Breads",
+        "minorCat": "Cheese",
+        "score": 4,
+        "imagesource": "https://m.media-amazon.com/images/I/71zF7ZBe4lL.jpg",
+        "notifyUsers": []
     },
     {
-        "id": 6, 
-        "desc": "choco cake",
-        "imagesource": "https://www.gstatic.com/webp/gallery/1.jpg"
-    }
+        "id": "6P",
+        "itemName": "Pillsbury Atta",
+        "brandName": "Pillsbury",
+        "spec": "5kg",
+        "price": "₹200",
+        "stock": 150,
+        "majorCat": "Grains & Cereals",
+        "minorCat": "Flour & Sooji",
+        "score": 3,
+        "imagesource": "https://m.media-amazon.com/images/I/71XsEoMZ-GL._AC_UF1000,1000_QL80_.jpg",
+        "notifyUsers": []
+    },
+    {
+        "id": "7P",
+        "itemName": "Daawat Basmati Rice",
+        "brandName": "Daawat",
+        "spec": "5kg",
+        "price": "₹350",
+        "stock": 100,
+        "majorCat": "Grains & Cereals",
+        "minorCat": "Rice & Pulses",
+        "score": 5,
+        "imagesource": "https://www.daawat.com/media/images/product/image/traditional-1-kg-1640956685.png",
+        "notifyUsers": []
+    },
+    {
+        "id": "8P",
+        "itemName": "Quaker Oats",
+        "brandName": "Quaker",
+        "spec": "1kg",
+        "price": "₹120",
+        "stock": 80,
+        "majorCat": "Grains & Cereals",
+        "minorCat": "Oats & Porridge",
+        "score": 4,
+        "imagesource": "https://rukminim2.flixcart.com/image/850/1000/ke1pnrk0/cereal-flake/8/z/2/1-5-oats-1-5kg-refill-quaker-original-imafuswfyvfgg6kq.jpeg?q=90&crop=false",
+        "notifyUsers": [
+            {
+                "userID": "4U",
+                "quant": 1
+            }
+        ]
+    },
+    {
+        "id": "9P",
+        "itemName": "Onions",
+        "brandName": "none",
+        "spec": "1kg",
+        "price": "₹37",
+        "stock": 120,
+        "majorCat": "Vegetables",
+        "minorCat": "Fresh Vegetables",
+        "score": 5,
+        "imagesource": "https://m.media-amazon.com/images/I/41Pi5dfvOoL._AC_UF1000,1000_QL80_.jpg",
+        "notifyUsers": []
+    },
+    {
+        "id": "10P",
+        "itemName": "Maggi Instant Noodles",
+        "brandName": "Maggi",
+        "spec": "70g",
+        "price": "₹12",
+        "stock": 200,
+        "majorCat": "Instant Foods",
+        "minorCat": "Noodles & Pasta",
+        "score": 3,
+        "imagesource": "https://5.imimg.com/data5/SELLER/Default/2022/7/MU/PJ/SD/5742893/maggi-noodles.jpg",
+        "notifyUsers": [
+            {
+                "userID": "5U",
+                "quant": 2
+            }
+        ]
+    },
+    {
+        "id": "11P",
+        "itemName": "Kissan Mixed Fruit Jam",
+        "brandName": "Kissan",
+        "spec": "500g",
+        "price": "₹80",
+        "stock": 100,
+        "majorCat": "Dairy and Breads",
+        "minorCat": "Butter & Spreads",
+        "score": 1,
+        "imagesource": "https://5.imimg.com/data5/SELLER/Default/2021/2/LD/WU/ZV/122999469/jam-jpg.jpg",
+        "notifyUsers": []
+    },
+        {
+            "id": "12P",
+            "itemName": "Parle-G Biscuits",
+            "brandName": "Parle",
+            "spec": "250g",
+            "price": "₹10",
+            "stock": 150,
+            "majorCat": "Snacks",
+            "minorCat": "Biscuits & Cookies",
+            "score": 2,
+            "imagesource": "https://images-cdn.ubuy.co.in/633af64dba25b806c73693fb-parle-g-original-biscuits-1-99-oz-6.jpg",
+            "notifyUsers": []
+        },
+        {
+            "id": "13P",
+            "itemName": "Haldiram's Aloo Bhujia",
+            "brandName": "Haldiram's",
+            "spec": "200g",
+            "price": "₹45",
+            "stock": 120,
+            "majorCat": "Snacks",
+            "minorCat": "Chips & Crisps",
+            "score": 5,
+            "imagesource": "https://m.media-amazon.com/images/I/71d+kz806ZL.jpg",
+            "notifyUsers": []
+        },
+        {
+            "id": "14P",
+            "itemName": "Nagpur Orange",
+            "brandName": "none",
+            "spec": "1kg",
+            "price": "₹65",
+            "stock": 200,
+            "majorCat": "Fruits",
+            "minorCat": "Fresh Fruits",
+            "score": 5,
+            "imagesource": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Nagpur_orange_article.JPG",
+            "notifyUsers": []
+        },
+        {
+            "id": "15P",
+            "itemName": "Green Grapes",
+            "brandName": "none",
+            "spec": "500g",
+            "price": "₹65",
+            "stock": 100,
+            "majorCat": "Fruits",
+            "minorCat": "Fresh Fruits",
+            "score": 4,
+            "imagesource": "https://fruitboxco.com/cdn/shop/products/asset_22_1_800x.jpg?v=1643137805",
+            "notifyUsers": [
+                {
+                    "userID": "6U",
+                    "quant": 2
+                }
+            ]
+        },
+        {
+            "id": "16P",
+            "itemName": "MTR Instant Rava Dosa Mix",
+            "brandName": "MTR",
+            "spec": "500g",
+            "price": "₹60",
+            "stock": 80,
+            "majorCat": "Instant Foods",
+            "minorCat": "Instant Mixes",
+            "score": 2,
+            "imagesource": "https://shop.mtrfoods.com/cdn/shop/products/RavaDosa-500g-front_large.png?v=1611242817",
+            "notifyUsers": []
+        },
+        {
+            "id": "17P",
+            "itemName": "Cadbury Dairy Milk Silk",
+            "brandName": "Cadbury",
+            "spec": "150g",
+            "price": "₹180",
+            "stock": 120,
+            "majorCat": "Sweets",
+            "minorCat": "Chocolates",
+            "score": 3,
+            "imagesource": "https://m.media-amazon.com/images/I/61fYPh6HwHL._AC_UF1000,1000_QL80_.jpg",
+            "notifyUsers": []
+        },
+        {
+            "id": "18P",
+            "itemName": "Dabur Honey",
+            "brandName": "Dabur",
+            "spec": "250g",
+            "price": "₹120",
+            "stock": 100,
+            "majorCat": "Sweets",
+            "minorCat": "Traditional Sweets",
+            "score": 2,
+            "imagesource": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/17681a.jpg?ts=1688464171",
+            "notifyUsers": []
+        },
+        {
+            "id": "19P",
+            "itemName": "Parle Hide & Seek Cookies",
+            "brandName": "Parle",
+            "spec": "200g",
+            "price": "₹30",
+            "stock": 150,
+            "majorCat": "Snacks",
+            "minorCat": "Biscuits & Cookies",
+            "score": 1,
+            "imagesource": "https://cdn.grofers.com/app/images/products/sliding_image/55360a.jpg?ts=1688972656",
+            "notifyUsers": []
+        },
+        {
+            "id": "20P",
+            "itemName": "Licious Chicken curry cut",
+            "brandName": "Licious",
+            "spec": "450g",
+            "price": "₹175",
+            "stock": 120,
+            "majorCat": "Chicken, Fish, Meat",
+            "minorCat": "Chicken",
+            "score": 3,
+            "imagesource": "https://m.media-amazon.com/images/I/61YtDlLNlHL.jpg",
+            "notifyUsers": [
+                {
+                    "userID": "7U",
+                    "quant": 3
+                }
+            ]
+        },
+        {
+            "id": "21P",
+            "itemName": "Red Carrot",
+            "brandName": "none",
+            "spec": "1kg",
+            "price": "₹48",
+            "stock": 200,
+            "majorCat": "Vegetables",
+            "minorCat": "Fresh Vegetables",
+            "score": 4,
+            "imagesource": "https://www.bigbasket.com/media/uploads/p/l/10000381_10-fresho-carrot-red.jpg",
+            "notifyUsers": []
+        }
+    
+    
 ]

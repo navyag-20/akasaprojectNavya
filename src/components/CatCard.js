@@ -6,26 +6,35 @@ import { useNavigate } from "react-router-dom";
 
 const CatCard = ({ category }) => {
   const navigate = useNavigate();
-  
-  function handleCategoryClick(path) {
-    navigate(path);
+
+  function handleCategoryClick() {
+    navigate("/classified");
   }
   return (
     <div>
-      {/* <img src={category.imagesource} alt={category.desc}/>
-      <p>{category.desc}</p> */}
       <Card
         variant="outlined"
+        style={{ width: "16vw", cursor: "pointer" }}
         onClick={() => {
-          handleCategoryClick(`/products?categoryFromPage=${category.desc}`);
+          handleCategoryClick();
         }}
       >
         <CardMedia
           component="img"
           image={category.imagesource}
-          alt={category.desc}
+          height="150"
+          alt={category.major}
         />
-        <CardContent>{category.desc}</CardContent>
+        <CardContent
+          style={{
+            fontWeight: "500",
+            fontSize:"1.4vw",
+            display: "flex",
+            justifyContent: "center",
+          }}
+        >
+          {category.major}
+        </CardContent>
       </Card>
     </div>
   );

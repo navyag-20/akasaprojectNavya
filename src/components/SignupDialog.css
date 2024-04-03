@@ -1,11 +1,13 @@
 .signup-box{
     display: flex;
     flex-direction: column;
-    padding: 3% 5%;
+    padding: 4% 7%;
     max-width: 100%;
     gap: 1vw;
     font-family: Manrope;
 }
 .signup-box>h2{
     margin: 0;
+    margin-bottom: 0.5vw;
+    font-size: 2vw;
 }

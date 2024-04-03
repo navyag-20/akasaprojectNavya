@@ -1,0 +1,21 @@
+.itemName{
+    font-family: Manrope;
+    margin: 0;
+    height: 3vw;
+    font-size: 1.15vw;
+}
+.spec{
+    font-family: Manrope;
+    font-size: 1.05vw;
+    color:grey;
+}
+.price-add{
+    font-family: Manrope;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.price-add>p{
+    margin: 0;
+    font-size: 1.2vw;
+}

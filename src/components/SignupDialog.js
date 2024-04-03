@@ -17,7 +17,7 @@ const SignupDialog = (props) => {
       <Dialog open={openSignup} onClose={closeSignup} maxWidth="md">
         <DialogContent sx={{ padding: 0, width: "30vw" }}>
           <div className="signup-box">
-          <h3>Signup</h3>
+          <h2>Signup</h2>
           <TextField id="email" label="Email" variant="outlined" size="small" />
           <TextField
             id="phoneNum"
@@ -25,12 +25,12 @@ const SignupDialog = (props) => {
             variant="outlined"
             size="small"
           />
-          <Button variant="contained">Create Account</Button>
+          <Button variant="contained" style={{backgroundColor:"rgb(31, 163, 70)"}}>Create Account</Button>
           {/* <Divider>or</Divider>
           <Button variant="outlined">Sign in with Google</Button> */}
           <p>
             Already have an account?{" "}
-            <span style={{ color: "red", cursor: "pointer" }} onClick={handle1}>
+            <span style={{ color: "grey", cursor: "pointer" }} onClick={handle1}>
               Log in
             </span>
           </p>

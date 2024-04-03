@@ -5,6 +5,8 @@ import LoginDialog from "./LoginDialog";
 import SignupDialog from "./SignupDialog";
 import Cart from "./Cart";
 import { useNavigate } from "react-router-dom";
+import Button from "@mui/material/Button";
+
 
 const Navbar = () => {
   const navigate = useNavigate();
@@ -32,13 +34,16 @@ const Navbar = () => {
   const handleCart = () => {
     setOpenCart(true);
   };
+  const handleProfile = () =>{
+    navigate("/myorders");
+  }
 
   return (
     <div className="navbar">
       <img src={Logo} alt="logo" onClick={() => navigate("/")} />
       <ul>
         <li onClick={handleLogin}>Log in</li>
-        {/* <li onClick={handleSignup}>Sign up</li> */}
+        <li onClick={handleProfile}>My Orders</li>
       </ul>
       <button onClick={handleCart}>Cart</button>
       {openLogin && (
