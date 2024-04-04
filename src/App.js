@@ -7,6 +7,7 @@ import Products from "./screens/Products";
 import ClassifiedProds from "./screens/ClassifiedProds";
 import Checkout from "./screens/Checkout";
 import MyOrders from "./screens/MyOrders";
+import Success from "./screens/Success";
 import Footer from "./components/Footer";
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <Route path="/products" element={<Products />} />
         <Route path="/checkout" element={<Checkout />} />
         <Route path="/myorders" element={<MyOrders />} />
+        <Route path="/success" element={<Success />} />
       </Routes>
       <Footer/>
     </Router>

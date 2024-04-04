@@ -9,7 +9,11 @@
 .my-cart>h2{
     margin: 0;
 }
+.drawer{
+    position: relative;
+}
 .checkout-btn{
     position: absolute;
-    top: 120%;
+    bottom: 0%;
+    /* top: 120%; */
 }

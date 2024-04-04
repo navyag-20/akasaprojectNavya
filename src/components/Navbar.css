@@ -8,6 +8,7 @@
     background-color: white;
     font-family: Manrope;
     font-size: 1.3vw;
+    z-index: 2;
 }
 .navbar img{
     width: 13%;
