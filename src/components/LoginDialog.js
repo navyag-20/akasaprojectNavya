@@ -5,6 +5,7 @@ import TextField from "@mui/material/TextField";
 import Button from "@mui/material/Button";
 import Divider from "@mui/material/Divider";
 import "./LoginDialog.css";
+// import UserData from "../alldata/Userdata.json";
 //import CloseIcon from "@mui/icons-material/Close";
 //import SignupDialog from "./SignupDialog";
 
@@ -14,6 +15,7 @@ const LoginDialog = (props) => {
     closeLogin();
     handleSignup();
   };
+ 
   return (
     <Fragment>
       <Dialog open={openLogin} onClose={closeLogin} maxWidth="lg">

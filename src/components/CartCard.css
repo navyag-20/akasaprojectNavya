@@ -1,0 +1,54 @@
+.cartcard {
+  display: flex;
+  margin: 2vw 0vw;
+  height: 10vw;
+  padding: 0;
+}
+.cartimage {
+  border-right: solid 1px #e3e3e3;
+}
+.carthandles {
+  display: flex;
+  align-items: center;
+}
+.cartdetails {
+  padding: 7% ;
+  font-size: 1.1vw;
+  margin-top: 3%;
+}
+.cartdetails > p {
+  margin: 0;
+}
+.cartdetails > p:first-child {
+  font-weight: 600;
+}
+.cartdetails > p:nth-child(2) {
+  color: grey;
+  margin-top: 3%;
+}
+.cartdetails > p:nth-child(3) {
+  margin-top: 4%;
+}
+.quantogg{
+    margin-top: 8%;
+}
+.quantogg>button{
+    font-family: Manrope;
+    background-color: rgb(31, 163, 70);
+    color: white;
+    border:none;
+    padding: 7px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.quantogg>button:first-child{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    font-weight: 600;
+}
+.quantogg>button:last-child{
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-weight: 600;
+}
+

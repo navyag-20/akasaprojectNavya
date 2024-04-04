@@ -4,7 +4,12 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    position: relative;
 }
 .my-cart>h2{
     margin: 0;
+}
+.checkout-btn{
+    position: absolute;
+    top: 120%;
 }

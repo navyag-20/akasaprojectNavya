@@ -9,17 +9,17 @@ import "./ProdCard.css";
 const ProdCard = ({ product }) => {
   const navigate = useNavigate();
 
-  function handleProductClick(path) {
-    navigate(path);
-  }
+  // function handleProductClick(path) {
+  //   navigate(path);
+  // }
   return (
     <div>
       <Card
         variant="outlined"
         style={{ width: "16vw", cursor: "pointer", height: "22vw" }}
-        onClick={() => {
-          handleProductClick(`/products?categoryFromPage=${product.itemName}`);
-        }}
+        // onClick={() => {
+        //   handleProductClick(`/products?categoryFromPage=${product.itemName}`);
+        // }}
       >
         <CardMedia
           component="img"

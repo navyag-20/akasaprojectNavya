@@ -7,6 +7,7 @@ import Products from "./screens/Products";
 import ClassifiedProds from "./screens/ClassifiedProds";
 import Checkout from "./screens/Checkout";
 import MyOrders from "./screens/MyOrders";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path="/checkout" element={<Checkout />} />
         <Route path="/myorders" element={<MyOrders />} />
       </Routes>
+      <Footer/>
     </Router>
   );
 }

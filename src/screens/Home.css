@@ -6,7 +6,7 @@
 .home-page>img{
    width: 100%;
    height: auto;
-   cursor: pointer;
+   /* cursor: pointer; */
 }
 .home-page h2{
     font-weight: 700;
